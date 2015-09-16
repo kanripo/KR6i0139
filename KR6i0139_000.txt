@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿闍世王授決經
+#+DATE: 2015-08-30 20:10:52.246227
+#+PROPERTY: JUAN 0
