@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:51.998871
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:41
 #+TITLE: 阿闍世王授決經
 #+PROPERTY: CBETA_ID T14n0509
 #+PROPERTY: ID KR6i0139
